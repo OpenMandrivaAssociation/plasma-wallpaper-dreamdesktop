@@ -1,7 +1,7 @@
 Summary:	Animated plasma wallpaper
 Name:		plasma-wallpaper-dreamdesktop
 Version:	0.3.0
-Release:	2
+Release:	2.1
 License:	GPL
 Group:		Graphical desktop/KDE
 Url:		http://www.jarzebski.pl/projekty/dreamdesktop.html
