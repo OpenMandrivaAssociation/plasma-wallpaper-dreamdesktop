@@ -4,7 +4,7 @@ Version:	0.3.0
 Release:	3
 License:	GPL
 Group:		Graphical desktop/KDE
-Url:		http://www.jarzebski.pl/projekty/dreamdesktop.html
+Url:		https://www.jarzebski.pl/projekty/dreamdesktop.html
 Source0:	http://www.jarzebski.pl/dreamdesktop/%{name}-%{version}.tar.bz2
 BuildRequires:	cmake
 BuildRequires:	ffmpeg-devel
